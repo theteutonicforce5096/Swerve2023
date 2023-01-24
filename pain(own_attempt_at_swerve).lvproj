@@ -110,9 +110,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Deadzone (SubVI).vi" Type="VI" URL="../../../GitHub/Swervedrive/Deadzone (SubVI).vi"/>
+		<Item Name="Deadzone (SubVI).vi" Type="VI" URL="../../Swervedrive/Deadzone (SubVI).vi"/>
+		<Item Name="post math 2(SubVI).vi" Type="VI" URL="../post math 2(SubVI).vi"/>
+		<Item Name="post math 3(SubVI).vi" Type="VI" URL="../post math 3(SubVI).vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="Swerve Math(mine).vi" Type="VI" URL="../../../GitHub/Swervedrive/Swerve Math(mine).vi"/>
+		<Item Name="Swerve Math(mine).vi" Type="VI" URL="../../Swervedrive/Swerve Math(mine).vi"/>
 		<Item Name="Swerve steering ini(minet.vi" Type="VI" URL="../Swerve steering ini(minet.vi"/>
 		<Item Name="Swervepostprossesing(mine) (SubVI).vi" Type="VI" URL="../Swervepostprossesing(mine) (SubVI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -386,6 +388,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_AnalogChannelERRScanlistInvalid.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelERRScanlistInvalid.vi"/>
 				<Item Name="WPI_AnalogChannelGetVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetVoltage.vi"/>
 				<Item Name="WPI_AnalogChannelOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelOpen.vi"/>
+				<Item Name="WPI_AnalogChannelRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelRefNum Registry Get.vi"/>
 				<Item Name="WPI_AnalogChannelRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelRefNum Registry Set.vi"/>
 				<Item Name="WPI_AnalogChannelSetSampleRate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelSetSampleRate.vi"/>
 				<Item Name="WPI_AnalogChannelWARNSampleRateTooFast.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelWARNSampleRateTooFast.vi"/>
