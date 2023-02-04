@@ -111,13 +111,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Deadzone (SubVI).vi" Type="VI" URL="../../Swervedrive/Deadzone (SubVI).vi"/>
-		<Item Name="post math 2(SubVI).vi" Type="VI" URL="../post math 2(SubVI).vi"/>
 		<Item Name="post math 3(SubVI).vi" Type="VI" URL="../post math 3(SubVI).vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Swerve Math(mine).vi" Type="VI" URL="../../Swervedrive/Swerve Math(mine).vi"/>
 		<Item Name="Swerve steering ini(minet.vi" Type="VI" URL="../Swerve steering ini(minet.vi"/>
-		<Item Name="Swervepostprossesing(mine) (SubVI).vi" Type="VI" URL="../Swervepostprossesing(mine) (SubVI).vi"/>
-		<Item Name="Untitled 1 (SubVI).vi" Type="VI" URL="../Untitled 1 (SubVI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -638,6 +635,7 @@ AddOutputFilter chunkFilter
 			<Item Name="ntcoreffi.dll" Type="Document" URL="ntcoreffi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="ReverseQuestionMark.vi" Type="VI" URL="../ReverseQuestionMark.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
