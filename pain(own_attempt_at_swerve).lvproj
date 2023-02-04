@@ -117,6 +117,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Swerve Math(mine).vi" Type="VI" URL="../../Swervedrive/Swerve Math(mine).vi"/>
 		<Item Name="Swerve steering ini(minet.vi" Type="VI" URL="../Swerve steering ini(minet.vi"/>
 		<Item Name="Swervepostprossesing(mine) (SubVI).vi" Type="VI" URL="../Swervepostprossesing(mine) (SubVI).vi"/>
+		<Item Name="Untitled 1 (SubVI).vi" Type="VI" URL="../Untitled 1 (SubVI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
